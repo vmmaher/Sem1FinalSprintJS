@@ -1,0 +1,14 @@
+.mainbox {
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+h2{
+    font-family: 'Arial', sans-serif;
+    font-size: 13pt;
+}
+
+p {
+    font-family: Calibri, sans-serif;
+    font-size: 10pt;
+}

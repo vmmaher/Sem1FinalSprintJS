@@ -1,0 +1,98 @@
+[
+    {
+        "login_id": "kingsteve",
+        "unique_id": 1000,
+        "account_created": "01/07/2014",
+        "email": "stevestevenson@hotmail.com",
+        "followers": 11547,
+        "following": 8,
+        "posts_created": 2943,
+        "account_status": "active", 
+        "admin": true,
+        "profile_info": {
+            "bio": "Totally not the owner of the site or anything.",
+            "location": "Top of The World"
+        },
+        "interests": ["technology", "photography", "traveling"]
+    },
+    {
+        "login_id": "treehugger",
+        "unique_id": 1001,
+        "account_created": "01/08/2014",
+        "email": "missmarybrown@yahoo.com",
+        "followers": 567,
+        "following": 98,
+        "posts_created": 845,
+        "account_status": "active",
+        "admin": true,
+        "profile_info": {
+            "bio": "Exploring the beauty of nature. Assistant moderator for the site.",
+            "location": "Green Hills"
+        },
+        "interests": ["hiking", "wildlife", "photography"]
+    },
+    {
+        "login_id": "gamer_bro",
+        "unique_id": 1002,
+        "account_created": "01/15/2014",
+        "email": "gamer@gameon.com",
+        "followers": 154,
+        "following": 15,
+        "posts_created": 12,
+        "account_status": "inactive",
+        "admin": false,
+        "profile_info": {
+            "bio": "Living life one game at a time.",
+            "location": "Virtual World"
+        },
+        "interests": ["gaming", "collecting", "nintendo"]
+    },
+    {
+        "login_id": "foodie12",
+        "unique_id": 1003,
+        "account_created": "06/30/2014",
+        "email": "foodie12@delicious.com",
+        "followers": 3456,
+        "following": 123,
+        "posts_created": 789,
+        "account_status": "active",
+        "admin": false,
+        "profile_info": {
+            "bio": "Tasting the world... Don't ask me what my favourite is.",
+            "location": "Food Paradise"
+        },
+        "interests": ["cooking", "baking", "food blogging"]
+    },
+    {
+        "login_id": "forumuser4Xd",
+        "unique_id": 1004,
+        "account_created": "08/02/2014",
+        "email": "kasdfbsdf@example.com",
+        "followers": 2,
+        "following": 0,
+        "posts_created": 1,
+        "account_status": "inactive",
+        "admin": false,
+        "profile_info": {
+            "bio": "There's nobody here.",
+            "location": "Anywhere"
+        },
+        "interests": ["nothing"]
+    },
+    {
+        "login_id": "MyNameIsUser",
+        "unique_id": 1005,
+        "account_created": "10/15/2016",
+        "email": "stephieflow@example.com",
+        "followers": 2710,
+        "following": 150,
+        "posts_created": 5051,
+        "account_status": "active",
+        "admin": false,
+        "profile_info": {
+            "bio": "NOT new to the forum, but I'm excited to be here!",
+            "location": "California"
+        },
+        "interests": ["anything", "networking", "making friends"]
+    }
+]
